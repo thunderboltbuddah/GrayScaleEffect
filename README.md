@@ -1,2 +1,2 @@
 ﻿# GrayScaleEffect
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](Image/Sample.png)
